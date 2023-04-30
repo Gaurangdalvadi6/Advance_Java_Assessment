@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Adance_Java_Assessment">
+        <property name="context-root" value="Adance_Java_Assessment"/>
+    </wb-module>
+</project-modules>
